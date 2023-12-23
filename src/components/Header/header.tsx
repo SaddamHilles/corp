@@ -3,7 +3,7 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <header>
+        <header className='bg-orange-800'>
             <nav>
                 <div>
                     <Link href={'/'}>Home</Link>
